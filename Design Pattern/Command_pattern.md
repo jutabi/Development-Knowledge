@@ -25,7 +25,6 @@ public class Backward {
 public class Accelerator {
     private Forward forward;
     private Backward backward;
-    private String gear;
 
     public Accelerator(Forward forward, Backward backward) {
         this.forward = forward;
