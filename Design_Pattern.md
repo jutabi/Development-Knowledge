@@ -4,4 +4,5 @@
 3. [상태 패턴 (State pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/State_pattern.md "state")
 4. [템플릿 메소드 패턴 (Template method pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Template_method_pattern.md "template method")
 5. [팩토리 메소드 패턴 (Factory method pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Factory_method_pattern.md "factory method")
-6. [커맨드 패턴 (Command pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Command_pattern.md "state")
+6. [커맨드 패턴 (Command pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Command_pattern.md "command")
+7. [옵저버 패턴 (Observer pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Observer_pattern.md "observer")
