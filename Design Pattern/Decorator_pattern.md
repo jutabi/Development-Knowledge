@@ -1,0 +1,1 @@
+# 데커레이터 패턴 (Decorator pattern)
