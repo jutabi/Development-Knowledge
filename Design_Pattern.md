@@ -7,3 +7,4 @@
 6. [커맨드 패턴 (Command pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Command_pattern.md "command")
 7. [옵저버 패턴 (Observer pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Observer_pattern.md "observer")
 8. [데커레이터 패턴 (Decorator pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Decorator_pattern.md "decorator")
+9. [추상 팩토리 패턴 (Abstract factory pattern)](https://github.com/mckaydev/Development-Knowledge/blob/master/Design%20Pattern/Abstract_factory_pattern.md "abstract factory")
