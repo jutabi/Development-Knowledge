@@ -4,9 +4,9 @@
 - 클라이언트의 요청 (request)와 서버의 응답 (response)로 구성
 
 ### HTTP 프로토콜의 특징
-1. 비연결지향 (Connectionless)
+1. 비연결지향 (Connectionless)  
 HTTP는 먼저 클라이언트가 서버에 request를 보내면 서버는 response를 보내고 접속을 끊는다.
-2. 상태정보 유지 안함 (stateless)
+2. 상태정보 유지 안함 (stateless)  
 연결을 끊는 순간 클라이언트와 서버의 통신이 끝나고 상태정보를 유지하지 않는다.
 
 ### HTTP 수행 과정
