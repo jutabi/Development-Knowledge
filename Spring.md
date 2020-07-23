@@ -19,7 +19,7 @@
 #### 실제 처리 과정
 ![실제 처리 과정](./resources/img/Spring_ex.png)
 1. 사용자가 jutabi.com/member/join 주소를 요청한다.
-2. 요청한 uri를 통하여 먼저 "/member" 로 RequestMapping 되어 있는 컨트롤러를 찾는다.
+2. 요청한 uri를 통하여 먼저 "/member" 로 RequestMapping 되어 있는 컨트롤러를 찾는다.  
 2.1 찾은 컨트롤러 내의 "/join" 으로 RequestMapping 되어 있는 메소드를 찾는다.
 3. ViewResolver 는 찾은 메소드 (joinForm()) 메소드가 반환하는 값 ("joinForm")을 통해 joinForm.jsp 파일을 전달한다.
 4. DispatcherServlet 은 joinForm.jsp 파일을 사용자에게 응답한다.
