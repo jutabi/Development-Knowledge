@@ -8,6 +8,8 @@
 - Ioc (Inversion of Control, 제어 반전)
 - MVC (Model View Controller)
 ### 처리 과정
+#### 개략
 ![개략](./resources/img/Spring.png)
   
+#### 실제 처리 과정
 ![실제 처리 과정](./resources/img/Spring_ex.png)
