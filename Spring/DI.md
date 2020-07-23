@@ -9,6 +9,7 @@ class B {
     private A a;
     public void method() {
         ...
+        this.a = new A();
         sout(a.name);
     }
 }
