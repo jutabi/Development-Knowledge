@@ -28,6 +28,8 @@ class B {
 }
 ```
 
+### [Dependency Inversion Principle (의존성 역전 원리)](../Design%20Pattern/SOLID/Dependency_inversion_principle.md)
+
 ### 의존성 주입
 - B 클래스가 동작하는데 A 클래스가 필요할 때 ***B 클래스 내에서 A 객체를 생성하는 것이 아닌***
 A 객체를 B 클래스에 전달하고 그것을 이용하여 B 클래스가 동작하는 것을 말한다.
