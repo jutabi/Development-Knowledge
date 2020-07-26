@@ -4,7 +4,7 @@
 ### 스프링의 주요 기능
 - [DI (Dependency Injection, 의존성 주입)](./Spring/DI.md)
 - [IoC (Inversion of Control, 제어의 역전)](./Spring/IoC.md)
-- AOP (Aspect Oriented Programming, 관점 지향 프로그래밍)
+- [AOP (Aspect Oriented Programming, 관점 지향 프로그래밍)](./Spring/AOP.md)
 - POJO (Plain Old Java Object)
 - MVC (Model View Controller)
 ### 처리 과정
