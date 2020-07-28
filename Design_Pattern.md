@@ -9,3 +9,4 @@
 7. [옵저버 패턴 (Observer pattern)](./Design%20Pattern/Observer_pattern.md "observer")
 8. [데커레이터 패턴 (Decorator pattern)](./Design%20Pattern/Decorator_pattern.md "decorator")
 9. [추상 팩토리 패턴 (Abstract factory pattern)](./Design%20Pattern/Abstract_factory_pattern.md "abstract factory")
+9. [MVC (Model View Controller)](./Design%20Pattern/Model_View_Controller.md "mvc")

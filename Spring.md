@@ -6,7 +6,7 @@
 - [IoC (Inversion of Control, 제어의 역전)](./Spring/IoC.md)
 - [AOP (Aspect Oriented Programming, 관점 지향 프로그래밍)](./Spring/AOP.md)
 - [POJO (Plain Old Java Object)](./Spring/POJO.md)
-- MVC (Model View Controller)
+- [MVC (Model View Controller)](./Design%20Pattern/Model_View_Controller.md)
 ### 처리 과정
 #### 개략
 ![개략](./resources/img/Spring.png)
