@@ -13,6 +13,7 @@ class Animal {
     def eat(food)
         satiety += food.calorie
     end
+}
 ```
 
 ## 구성 요소
