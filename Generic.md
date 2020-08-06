@@ -45,3 +45,25 @@ public class Main() {
 - 컴파일시에 자동으로 형변환이 이루어진다.
 #### 3. 코드 재사용성
 - 위의 예제와 같이 기능은 동일하지만 자료형만 다를 때 코드를 재사용하기에 좋습니다.
+
+### + 자료형 한정하기 (한정적 타입 매개변수 (Bounded Type Parameter))
+- 제네릭으로 사용할 자료형을 한정할 수 있는 방법
+```
+public class AClass<T extends Number> { ... }
+```
+- AClass의 제네릭으로 들어오는 자료형을 Number의 서브 클래스로 한정한다.  
+(ex) Byte, Short, Integer, Long, Double)
+- 상위클래스로 한정하고 싶은 경우 'super'를 사용한다.
+```
+public class AClass<T super ***>
+```
+
+### + 복수 제네릭
+- 복수개의 제네릭을 사용하는 것도 가능하다.
+```
+public class AClass<T, K> { ... }
+```
+- Java의 HashMap이 그 예
+```
+HashMap<String, Integer> map = new HashMap<String, Integer>();
+```
