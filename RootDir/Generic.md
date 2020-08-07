@@ -67,3 +67,14 @@ public class AClass<T, K> { ... }
 ```
 HashMap<String, Integer> map = new HashMap<String, Integer>();
 ```
+
+## + 제네릭 메서드
+- 반환값의 자료형과 매개변수의 자료형으로 T를 갖는 메소드
+- 제네릭 클래스 이외의 일반 클래스 내부에도 정의할 수 있다.
+- 리턴타입을 정의하기 전에 제네릭 메소드라는 것을 명시하기 위해 제네릭 타입에 대한 정의를 해야한다.
+```
+public static <T> T methodA(T input) { ... }
+```
+```
+public static <T extends Number> void methodB(T input) { ... }
+```
