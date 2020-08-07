@@ -140,4 +140,4 @@ public class Goblin extends Monster {
 
 #### 6. 정보 은닉
 
-## [OOP 5대 원칙(SOLID)](./Design%20Pattern/SOLID.md)
+## [OOP 5대 원칙(SOLID)](Design%20Pattern/SOLID.md)
