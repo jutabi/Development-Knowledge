@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ca07cc8-f114-43f5-be3f-be7d7588dabc" name="Default Changelist" comment="" />
+    <list default="true" id="7ca07cc8-f114-43f5-be3f-be7d7588dabc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RootDir/Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/RootDir/Docker.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -32,7 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594775084682</updated>
       <workItem from="1594775085849" duration="6000" />
+      <workItem from="1606389359034" duration="7556000" />
+      <workItem from="1606457343259" duration="598000" />
+      <workItem from="1606570301114" duration="1213000" />
+      <workItem from="1606656052447" duration="3728000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
